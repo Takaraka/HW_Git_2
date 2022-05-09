@@ -1,0 +1,13 @@
+Bug ID
+Короткое описание (Summary)
+Проект (Project)
+Компонент приложения (Component)
+Номер версии (Version)
+Серьезность (Severity)
+Приоритет (Priority)
+Автор (Author)
+Окружение
+Шаги воспроизведения (Steps to Reproduce)
+Фактический Результат (Result)
+Ожидаемый результат (Expected Result)
+Прикрепленный файл (Attachment)
